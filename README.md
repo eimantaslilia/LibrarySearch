@@ -5,9 +5,9 @@ found either in the title or the publisher's name, the book is printed out.
 
 Example:
 
-Enter your search term: 
-     HoUsE         
-Slaughterhouse-Five, Delacorte, 1969
+Enter your search term:  
+     HoUsE  
+Slaughterhouse-Five, Delacorte, 1969  
 The Death of Ivan Ilyich, Penguin Random House, 2008
 
 The class Book is there to create new objects(books) that have a title, a publisher, and publication date.
