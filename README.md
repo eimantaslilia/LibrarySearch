@@ -10,6 +10,6 @@ Enter your search term:
 Slaughterhouse-Five, Delacorte, 1969  
 The Death of Ivan Ilyich, Penguin Random House, 2008
 
-The class Book is there to create new objects(books) that have a title, a publisher, and publication date.
-The class Library is to store the Books in an ArrayList.
+The class Book is there to create new objects(books) that have a title, a publisher, and publication date.  
+The class Library is to store the Books in an ArrayList.  
 The class StringUtils helps us search better by ignoring upper and lower cases, as well as whitespaces.
